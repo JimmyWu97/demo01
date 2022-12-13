@@ -10,5 +10,6 @@ public class Dugujiujian {
         System.out.println("独孤九剑");
         System.out.println("独孤九剑");
         System.out.println("独孤九剑");
+        System.out.println("大吉大利");
     }
 }
